@@ -1,12 +1,14 @@
 # NYC-311-ResponseTime-Dashboard
-# NYC-311-ResponseTime-Dashboard/
-│── README.md
-│── screenshots/
-│    └── dashboard.png
-│── data/
-│    └── 311_Service_Requests.csv (if allowed)
-│── NYC_Complaints_ResponseTime_Heatmap.twbx
-# NYC 311 Complaints Response-Time Dashboard
+
+| File/Folder                                | Description                                                        |
+| ------------------------------------------ | ------------------------------------------------------------------ |
+| `README.md`                                | Explains the project (overview, features, tools, insights, usage). |
+| `screenshots/`                             | Folder containing screenshots of the dashboard.                    |
+| └── `dashboard.png`                        | Main screenshot of the final Tableau dashboard.                    |
+| `data/`                                    | Folder for dataset(s) used.                                        |
+| └── `311_Service_Requests.csv`             | Cleaned or raw dataset (if allowed by source terms).               |
+| `NYC_Complaints_ResponseTime_Heatmap.twbx` | The packaged Tableau workbook file.                                |
+
 
 ## Overview
 An interactive Tableau dashboard analyzing NYC 311 complaints, visualizing:
