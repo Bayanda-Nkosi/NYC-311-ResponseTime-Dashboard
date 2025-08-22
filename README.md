@@ -37,6 +37,13 @@ An interactive Tableau dashboard analyzing NYC 311 complaints, visualizing:
 1. Download the `.twbx` file.
 2. Open in Tableau Public/Desktop.
 3. Use filters to explore complaint patterns dynamically.
+# link to dataset
+ww.kaggle.com/datasets/bayandankosi/nyc-311-manhattan-jan-june2023
+
+# Creator
+
+Bayanda Nkosi _ nkosi.connec@gmail.com
+
 
 ---
 
